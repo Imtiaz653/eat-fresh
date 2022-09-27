@@ -1,0 +1,10 @@
+body {
+    font-family: 'Poppins',
+        sans-serif;
+    font-family: 'Raleway',
+        sans-serif;
+}
+
+section {
+    display: flex;
+}
